@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanpnd" alt="aryanpnd" /></a> </p>
 
-- 🔭 I’m currently working on **Message encryptor and decryptor**
+- 🔭 I’m currently working on my **Competetive Programming skills**
 
 - 🌱 I’m currently learning **Computer science engineering**
 
