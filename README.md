@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer science engineering**
 
-- 👯 I’m looking to collaborate on **Message encryptor and decryptor**
+- 👯 I’m looking to collaborate on **Flutter and MERN stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryanpnd](https://github.com/aryanpnd)
 
